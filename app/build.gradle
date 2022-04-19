@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.intentexercise"
+        applicationId "com.example.exerciseintent"
         minSdk 21
         targetSdk 32
         versionCode 1
@@ -28,6 +28,10 @@ android {
     }
     kotlinOptions {
         jvmTarget = '1.8'
+    }
+    buildFeatures{
+        // enable viewBinding
+        viewBinding true
     }
 }
 
