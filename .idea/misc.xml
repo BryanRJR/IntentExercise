@@ -5,10 +5,12 @@
       <map>
         <entry key="..\:/Developer Android/ExerciseIntent/app/src/main/res/layout/activity_detail.xml" value="0.16" />
         <entry key="..\:/Developer Android/ExerciseIntent/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/User/Documents/Android Project/IntentExercise/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="..\:/Users/User/Documents/Android Project/IntentExercise/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
